@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and famous victory obtained by the Parliaments navy near the Isle of VVight, against fifty sail of Hollanders: with the particulars of this great and desparate engagement, the manner of the fight, and the number of ships sunken and taken, and the great loss on both sides. Also the King of Denmarks declaration, touching the Hollanders, the setting forth of his great armado, the drawing down of all his land-forces to the sea-coast; and the Queen of Swedens proclamation, touching the King of Scots, the Parliament of England, and their fleet at Sea. Published according to Order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85575</idno>
+            <idno type="STC">Wing G1651</idno>
+            <idno type="STC">Thomason E679_3</idno>
+            <idno type="STC">ESTC R206744</idno>
+            <idno type="EEBO-CITATION">99865851</idno>
+            <idno type="PROQUEST">99865851</idno>
+            <idno type="VID">166343</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166343)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E679[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and famous victory obtained by the Parliaments navy near the Isle of VVight, against fifty sail of Hollanders: with the particulars of this great and desparate engagement, the manner of the fight, and the number of ships sunken and taken, and the great loss on both sides. Also the King of Denmarks declaration, touching the Hollanders, the setting forth of his great armado, the drawing down of all his land-forces to the sea-coast; and the Queen of Swedens proclamation, touching the King of Scots, the Parliament of England, and their fleet at Sea. Published according to Order.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Georg [sic] Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb. 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Frederick --  III, --  King of Denmark and Norway, 1609-1670 --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166343:1" rendition="simple:additions"/>
+            <p>A Great and Famous VICTORY Obtained by the Parliaments Navy Near the Iſle of VVIGHT, AGAINST Fifty Sail of Hollanders: With the paticulars of this great and deſperate Engagement, the manner of the Fight, and the number of ſhips ſunk and taken, and the great loſs on both ſides.</p>
+            <p>ALSO The King of Denmarks Declaration, touching the Hol<g ref="char:EOLhyphen"/>landers, the ſetting forth of his great Armado, the drawing down of all his Land-Forces to the Sea-Coaſt; and the Queen of Swedens Proclamation, touching the King of Scots, the Parliament of England, and their Fleet at Sea.</p>
+            <p>Publiſhed according to Order. <add>Novemb. 2</add>
+            </p>
+            <p>LONDON: Printed for Georg Horton, <hi>Anno</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166343:2"/>
+            <pb n="3" facs="tcp:166343:2"/>
+            <head>A great VICTORY Obtained By the Engliſh againſt the Hollander on Thurſday near the Iſle of Wight.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>ON Sunday laſt, from very clean hands, we re<g ref="char:EOLhyphen"/>eived a moſt exact and fair account of the pro<g ref="char:EOLhyphen"/>ceedings of our Navy at ſea, and that they are again put forth, and became Maſters of ſeveral prizes: but purchaſed at too dear a rate; for one of our Frigots hath been extreamly ingaged, with the Hollander, and her main-maſt, and miſn, both taken off by chain-ſhot; ſhe maintained a very gallant diſpute for many hours, but at laſt being overpowred was forced to tack about, and ſtrike into Portſmouth, with the loſſe of ſome men; the Free-booters are extream buſie, and have truſſed up ſome of our ſhips near Berwick; laden with excellent commo<g ref="char:EOLhyphen"/>dities; but on the contrary we have taken divers of the
+<pb n="4" facs="tcp:166343:3"/>Flemings; amongſt the reſt divers Amſterdam Merchants laden with Wines, Sugar, Salt, and other conſiderable prize: yet notwithſtanding the enemy ſeems as reſolute as potent; for on Thurſday laſt, a great fleet, conſiſting of about 50 ſail, began to act a new Tragedy upon the Neptune Ocean, neer the Iſle of Wight; which the Eng<g ref="char:EOLhyphen"/>liſh perceiving, prepared to receive them, and according<g ref="char:EOLhyphen"/>ly 30 gallant men of war hoiſted ſail, and bore up to them: and after a ſharp conflict expelled their powers, and forced them to decline engagement, and after two hours chaſe, ſunk four, took eleven, and diſſipated the reſt: but not without loſſe.</p>
+            <p>From ſeverall parts beyond the ſea this week thus. The Senatours with the King of Denmark are yet at Copenhagen, and the reſt of thoſe that make up the Na<g ref="char:EOLhyphen"/>tional Senate, are ſummoned to appear within a time li<g ref="char:EOLhyphen"/>mited. His Majeſty of Denmark hath alſo ſent Com<g ref="char:EOLhyphen"/>miſſioners to view all the fortifications on the ſea ſide, and to provide with all neceſſaries, as alſo given Com<g ref="char:EOLhyphen"/>miſſion to all the Officers of the Navy may be in a readi<g ref="char:EOLhyphen"/>neſſe to ſet forth upon any occaſion; ſome of the Dutch ſhips riding near Copenhagen did lately ſeize upon three Dantzick ſhips which were bound for Oſtend, and having detained them ſome days upon pretence that they were bound for London, the parties grieved having made their addreſſes to the King, and made it appear that there was no ſuch thing intended, the ſaid ſhips and goods were ſet at liberty, and remained under the Kings protection, wai<g ref="char:EOLhyphen"/>ting for a fair wind to depart thence. The Queen of Swe<g ref="char:EOLhyphen"/>den and her Councel are very buſie in giving audience to ſeveral Embaſſadours both from Germany, as alſo from divers other Kings and States, they have made a Procla<g ref="char:EOLhyphen"/>mation to all the Senatours which are abſent to repair within a ſet time to Stockholm, that ſo with all conveni<g ref="char:EOLhyphen"/>ency
+<pb n="5" facs="tcp:166343:3"/>they may proceed to the choice of new Senatours, in lieu of thoſe that are lately dead: all things are now wor<g ref="char:EOLhyphen"/>king towards the general meeting at the Imperial Dyet at Ratisbon.</p>
+            <p>The long ſiege of Barcelona is now come to an end, the Generalliſſimo Don Juan de Auſtria, and the Marqueſſe of Mortara, General of the Spaniſh army by land, having brought that City for want of proviſions to make a com<g ref="char:EOLhyphen"/>poſition, and thereupon to ſurrender, which was done a<g ref="char:EOLhyphen"/>bout the latter end of September, after they had endured a very hard ſiege for the ſpace of fifteen moneths within which time there hath periſhed a very great number of people, of all ages and ſexes, by the ſword, the Peſtilence, and famine, and the firſt and laſt of theſe hath likewiſe deſtroyed many of the beſiegers, ſo that conſidering mo<g ref="char:EOLhyphen"/>ny ſpent and men loſt, the place is dear bought, as for par<g ref="char:EOLhyphen"/>ticulars we can ſay no more, but that they have honour<g ref="char:EOLhyphen"/>able terms granted. The French Vice-King with the Go<g ref="char:EOLhyphen"/>vernour of the City have liberty to march out with the reſt mentioned in the articles and are both gone to Perpig<g ref="char:EOLhyphen"/>nan, by the next we ſhall give you a more particular ac<g ref="char:EOLhyphen"/>count. You have heard of the ſurrender of the City of Caſal to the Duke of Mantua the true owner thereof, but the Citadel ſtood out, being kept by a French gariſon commanded by Monſier S. <hi>Angelo,</hi> who having refuſed to ſurrender upon the ſummons, the batteries were there<g ref="char:EOLhyphen"/>upon made ready, and the place being ſtormed twice, the beſieged conſidering their condition, and how little hopes there was of any relief, did at laſt come to compoſition. which was granted them upon honourable terms, and ſo they marched out, and had a convoy to bring them into Pi<g ref="char:EOLhyphen"/>edmont.</p>
+            <pb n="6" facs="tcp:166343:4"/>
+            <p> By Letters from Edenburgh, October 24. came thus. On Wedneſday the 20 inſtant, the Engliſh Commiſſion<g ref="char:EOLhyphen"/>ers for adminiſtration of Juſtice ſate upon criminal mat<g ref="char:EOLhyphen"/>ters at Edenburgh: The firſt day was ſpent in reading their Commiſſion from the Commiſſioners at Dalkieth, calling the Sheriffs of the ſeveral Counties on this ſide the Frith, viz. Barwick, Selkirk, Pebles, Linlithgow, Had<g ref="char:EOLhyphen"/>ington, Lothian and Roxborough. Thoſe Sheriffs that ap<g ref="char:EOLhyphen"/>peared not, were fined 200 l. Scotch each. Afterwards the Gentlemen of the Counties, who were to do their ſervice were called, and ſuch as appeared not, fined 100 <hi>l.</hi> Scotch; and then ſeveral Delinquents were called, and ſet down for tryal. Since that, theſe three days have been ſpent in the tryal, and fining of ſeveral perſons for Adul<g ref="char:EOLhyphen"/>tery, Inceſt, and Fornication, for which there were above threeſcore perſons brought before the Judges in a day. And it is obſervable, That (ſuch is the malice of theſe people) that moſt of them were accuſed for facts done divers years ſince, and the chief proof againſt them was their own Confeſſion before the Kirk, who are in this worſe than thoſe of the Romiſh Religion, who do not make ſo ill an uſe of their Auricular Confeſſion, ſome of the facts committed 5, ſome 6, 10, 16, 18, and 21 years ſince. There was one Ephraim Bennet, a Gunner in Lieth, indicted, convicted, and condemned for coyning of Six<g ref="char:EOLhyphen"/>pences, Shillings, and half Crowns; alſo two Engliſh-men, Wilkinſon and Newcome, condemned for robbing and killing one Scotch man near Haddington in March laſt. But that which is moſt obſervable is, that ſome were brought before them for Witches, two whereof had been brought before the Kirk, about the time of the Armies comming into Scotland, and having confeſt it, were turned over to the Civil Magiſtrates. The Court
+<pb n="7" facs="tcp:166343:4"/>demanding how they came to be proved Witches, they declared that they were forced to do it by the exceeding torture they were put to, which was by tying their Thumbs behind them, and then hanging them up by them, whiles two Highlanders whipt them; after which they ſet lighted Candles to the ſoles of their feet, and between their toes, then burned them by putting lighted Candles into their mouths, and then burning them in the head; there were 6 of them accuſed in all, four whereof died of the torture. The Judges are reſolved to enquire into the buſineſs, and have appointed the Sheriff, Miniſters, and Tormentors to be found out, and to have an accompt of the ground of this cruelty. Another woman that was ſuſ<g ref="char:EOLhyphen"/>pected (according to their thought) to be a Witch, was kept 28 days and nights with bread and water, being ſtript naked and laid upon a cold ſtone, with onely a hair cloth over her. Others had hairy ſhirts dipped in vinegar put on them to fetch off the skin. It is very probable there will ſhortly be more diſcoveries of this kind of Amboyna uſage, but here is enough for reaſonable men to comment upon.</p>
+            <p>On Wedneſday laſt, the Marqueſs of Argyle came to Edenburgh, he had ſo far perfected the work in the High<g ref="char:EOLhyphen"/>lands, that our priſoners are releaſed out of Carverſara Caſtle, (where about 60 of them were kept) 20 miles from Innerrara, where they had near periſhed, had not they been allowed ſome of their own Bisket and Cheeſe. The Marqueſs of Argyle uſed them very civilly at their comming by his houſe, allowing them good quarters, ſome money to bear their charges, and giving them Paſ<g ref="char:EOLhyphen"/>ſes through his Countrey.</p>
+            <pb n="8" facs="tcp:166343:5"/>
+            <p> The moſt illuſtrius Princeſs, the Queen of Sweden, hath ſet forth a Proclamation, adjuring and commanding all her Captains and Officers of her Navy Royal, to yeeld obedience unto her ſpecial Edict and Decree, for the protection and preſervation of the Engliſh ſhips (commiſſioned either by the titular King of Scots, or the Parliament) from the violence of the Hollander: and that they ſhall likewiſe receive protection as well upon their Naval Affairs throughout the Baltick Seas, as with<g ref="char:EOLhyphen"/>in their own confines and territories; In purſuance whereof, her Majeſty hath given Order for 50 ſail of Men of War to be immediately ſet forth, to attend the motion of the Engliſh and Dutch.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
